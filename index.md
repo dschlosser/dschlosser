@@ -1,3 +1,3 @@
-## Nothing here yet!
+## There's Nothing Here Yet!
 
-[Continue to my profile...](/../../../../dschlosser)
+[Continue to my profile...](//github.com/dschlosser)
